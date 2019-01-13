@@ -1,0 +1,26 @@
+{
+  "name": "nodebackend",
+  "version": "1.0.0",
+  "description": "Backend for react native app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start nodejs app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/dilas12345"
+  },
+  "keywords": [
+    "nodebackend",
+    "react-native",
+    "react",
+    "nodejs"
+  ],
+  "author": "Yusuph Dilas Che",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
